@@ -1,7 +1,7 @@
-# ticketing system
+# Project
  Basic ticketing system - Tracking system for customer reported problems
 
-# Language
+# Skills
  C
 
 # Description
